@@ -1,6 +1,10 @@
 # my-webpage
 Resume + Portfolio 
 
+## Status
+
+Not started
+
 ## Usage
 
 ```
